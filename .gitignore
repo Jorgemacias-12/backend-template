@@ -1,0 +1,56 @@
+# Directorio de salida de compilación TypeScript
+dist/
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivo de bloqueo de dependencias
+package-lock.json
+
+# Archivo de configuración de TypeScript
+tsconfig.json
+
+# Archivo de configuración de TypeScript para pruebas
+tsconfig.test.json
+
+# Registro de cambios de nodemon
+nodemon-debug.log
+
+# Archivo de registro de errores de VSCode
+.vscode/
+
+# Archivo de configuración de VSCode para TypeScript
+.vscode/settings.json
+
+# Archivo de configuración de VSCode para lanzamiento de depuración
+.vscode/launch.json
+
+# Carpeta de cobertura de pruebas
+coverage/
+
+# Archivo de registro de errores de prueba
+*.log
+
+# Directorio de compilación de pruebas
+__tests__/build/
+
+# Archivos de registro de pruebas
+__tests__/**/*.log
+
+# Directorio de cobertura de pruebas
+__tests__/coverage/
+
+# Resultados de pruebas
+__tests__/results/
+
+# Archivos de resultados de pruebas
+__tests__/**/*.xml
+
+# Carpeta de datos de pruebas
+__tests__/data/
+
+# Archivos de configuración de pruebas
+__tests__/**/*.config.js
+
+# Archivos de instantáneas de pruebas
+__tests__/**/*.snap
