@@ -54,3 +54,6 @@ __tests__/**/*.config.js
 
 # Archivos de instantáneas de pruebas
 __tests__/**/*.snap
+
+# Ignore env files
+*.env
